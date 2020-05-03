@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 
-	"github.com/caddyserver/caddy/v2/caddyconfig"
+	"github.com/caddyserver/caddy/caddyconfig"
 	"github.com/ghodss/yaml"
 )
 
